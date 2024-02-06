@@ -5,7 +5,7 @@
 
 
 
-**Note:** This repository is specific to JavaScript. Please check [React.js Interview Questions & Answers(https://github.com/dvyogesh/react.js-interview-questions) for core React questions.
+**Note:** This repository is specific to JavaScript. Please check [React.js Interview Questions & Answers](https://github.com/dvyogesh/react.js-interview-questions) for core React questions.
 
 **Note:** This repository is specific to JavaScript. Please check [Vue.js Interview questions](https://github.com/dvyogesh/Javascript-Interview-questions) for core Vue questions.
 
